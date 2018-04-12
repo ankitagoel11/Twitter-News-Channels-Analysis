@@ -1,8 +1,8 @@
 # Twitter-News-Channels-Analysis
 
- Python script to perform a sentiment analysis of the Twitter activity of various news oulets, and findings are visually presented.
+Python script to perform a sentiment analysis of the Twitter activity of various news oulets, and findings are visually presented.
 
-Final output provides a visualized summary of the sentiments expressed in Tweets sent out by the following news organizations: __BBC, CBS, CNN, Fox, and New York times__.
+Final output provides a visualized summary of the sentiments expressed in Tweets sent out by the following news organizations: _BBC, CBS, CNN, Fox, and New York times.
 
 The first plot feature the following characterstics:
 
