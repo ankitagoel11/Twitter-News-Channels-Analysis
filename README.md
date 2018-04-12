@@ -12,7 +12,7 @@ The first plot feature the following characterstics:
 
 The second plot is a bar plot visualizing the _overall_ sentiments of the last 100 tweets from each organization. For this plot, the compound sentiments are aggregated analyzed by VADER.
 
-The tools of the trade you will need for your task as a data analyst include the following: tweepy, pandas, matplotlib, seaborn, textblob, and VADER.
+The tools of the trade used for this task as a data analyst include the following: tweepy, pandas, matplotlib and VADER.
 
 Final Jupyter notebook has:
 
