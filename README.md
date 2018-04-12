@@ -8,7 +8,7 @@ Final output provides a visualized summary of the sentiments expressed in Tweets
 
 The first plot feature the following characterstics:
 
-* Be a scatter plot of sentiments of the last __100__ tweets sent out by each news organization, ranging from -1.0 to 1.0, where a score of 0 expresses a neutral sentiment, -1 the most negative sentiment possible, and +1 the most positive sentiment possible.
+* A scatter plot of sentiments of the last __100__ tweets sent out by each news organization, ranging from -1.0 to 1.0, where a score of 0 expresses a neutral sentiment, -1 the most negative sentiment possible, and +1 the most positive sentiment possible.
 * Each plot point will reflect the _compound_ sentiment of a tweet.
 * Sorted each plot point by its relative timestamp.
 
