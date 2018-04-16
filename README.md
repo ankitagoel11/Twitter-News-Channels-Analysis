@@ -2,7 +2,7 @@
 
 ## If you want to run the code provided in this repositry, get your own twitter API keys and save them in a config.txt file in the same folder where you plan to run the code. You will need consumer_key, consumer_secret, access_token, access_token_secret parameters. If you need any help to set it up, please email me and I will be happy to help. 
 
-Python script to perform a sentiment analysis of the Twitter activity of various news oulets, and findings are visually presented.
+Python script to perform a sentiment analysis of the Twitter activity of various news outlets, and findings are visually presented.
 
 Final output provides a visualized summary of the sentiments expressed in Tweets sent out by the following news organizations: _BBC, CBS, CNN, Fox, and New York times.
 
