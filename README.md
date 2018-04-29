@@ -10,7 +10,6 @@ The first plot feature the following characterstics:
 
 * A scatter plot of sentiments of the last _100_ tweets sent out by each news organization, ranging from -1.0 to 1.0, where a score of 0 expresses a neutral sentiment, -1 the most negative sentiment possible, and +1 the most positive sentiment possible.
 * Each plot point will reflect the _compound_ sentiment of a tweet.
-* Sorted each plot point by its relative timestamp.
 
 The second plot is a bar plot visualizing the _overall_ sentiments of the last 100 tweets from each organization. For this plot, the compound sentiments are aggregated analyzed by VADER.
 
