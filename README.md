@@ -21,4 +21,4 @@ Final Jupyter notebook has:
 * A sentiment analysis with the compound, positive, neutral, and negative scoring for each tweet.
 * Pulled into a DataFrame the tweet's source acount, its text, its date, and its compound, positive, neutral, and negative sentiment scores.
 * Exported the data in the DataFrame into a CSV file.
-* Saved PNG images for each plot.
+* Saved PNG images for each sentiment analysis plot.
