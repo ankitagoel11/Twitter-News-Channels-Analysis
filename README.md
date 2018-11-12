@@ -17,7 +17,7 @@ The tools of the trade used for this task as a data analyst include the followin
 
 Final Jupyter notebook has:
 
-* Last 100 tweets from each news channel.
+* Last 100 tweets from each news channel that were analyzed.
 * A sentiment analysis with the compound, positive, neutral, and negative scoring for each tweet.
 * Pulled into a DataFrame the tweet's source acount, its text, its date, and its compound, positive, neutral, and negative sentiment scores.
 * Exported the data in the DataFrame into a CSV file.
