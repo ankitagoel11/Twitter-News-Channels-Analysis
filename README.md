@@ -1,6 +1,6 @@
 # Twitter-News-Channels-Analysis
 
-## If you want to run the code provided in this repositry, get your own twitter API keys and save them in a config.txt file in the same folder where you plan to run the code. You will need consumer_key, consumer_secret, access_token, access_token_secret parameters. If you need any help to set it up, please email me and I will be happy to help. 
+## If you want to run the code provided in this repositry, get your own twitter API keys and save them in a config.txt file in the same folder where you plan to run the code.  You will need consumer_key, consumer_secret, access_token, access_token_secret parameters ( available on developer.twitter.com). If you need any help to set it up, please email me and I will be happy to help. T
 
 Python script to perform a sentiment analysis of the Twitter activity of various news outlets, & findings are visually presented.
 
