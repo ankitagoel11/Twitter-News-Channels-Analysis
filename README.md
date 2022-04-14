@@ -15,7 +15,7 @@ The second plot is a bar plot visualizing the _overall_ sentiments of the last 1
 
 The tools of the trade used for this task as a data analyst include the following: tweepy, pandas, matplotlib and VADER.
 
-Final Jupyter notebook has:
+Final Jupyter notebook has :
 
 * Last 100 tweets from each news channel that were analyzed.
 * A sentiment analysis with the compound, positive, neutral, and negative scoring for each tweet.
